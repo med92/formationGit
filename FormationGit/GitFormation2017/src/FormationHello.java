@@ -5,7 +5,9 @@ public class FormationHello {
 		// TODO Auto-generated method stub
 		System.out.println("hello");
 		System.out.println("Oscar");
-
+		System.out.println("hello");
+		System.out.println("Qui suis-je ? Jo");
+		System.out.println("Les gens");
 	}
 
 }
